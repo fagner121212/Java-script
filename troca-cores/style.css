@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.corpo {
+    margin-top: 250px;
+}
+
+.corpoPrincipal {
+    border: 5px solid red;
+    /* Altura */
+    height: 150px;
+    width: 1000px;
+}
+
+p {
+    border: 1px solid #808080;
+    border-radius: 3px;
+    font-size: 30px;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    background-color: #808080;
+}
+
+.container {
+    /* Largura */
+    width: 400px;
+}
+
+div {
+    margin-top: 10px;
+    margin-left: 250px;
+    border-radius: 5px;
+}
+
+.botao {
+    border: 5px solid black;
+    width: 100px;
+    height: 40px;
+    margin-left: 400px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
